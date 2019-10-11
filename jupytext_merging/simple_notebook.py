@@ -20,3 +20,4 @@ x = np.linspace(0,6)
 y = np.sin(x)
 
 plt.plot(x, y)
+plt.plot(x, x)
