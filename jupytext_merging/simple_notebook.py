@@ -21,9 +21,3 @@ y = np.sin(x)
 
 plt.plot(x, y)
 plt.plot(x, x)
-
-# cool!
-
-print('whoa')
-
-
