@@ -1,5 +1,5 @@
-
-hello, world!
+line0
+edit 2
 
 Guten morgen!
 
@@ -8,3 +8,5 @@ Good night!
 New line!
 
 New lines.
+
+Tomislav's line
